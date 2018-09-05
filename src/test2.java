@@ -3,6 +3,7 @@ public class test2 {
 
 
 	private String name = "54";
+	private String lastname = "Lannon";
 	
 	public static void main(String[] args)
 	{
