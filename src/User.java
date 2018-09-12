@@ -5,11 +5,11 @@ public class User
 	private String Email;
 	private String Firstname;
 	private String Lastname;
-	//Method signture consits of
-	//Accessor - public
-	//Return type - any type or boid
+	//Method signture consits of...
+	//Accessor - public, private or protected
+	//Return type - any type or void for nothing
 	//Method name - make it good so people know what the method does
-	// Argument list - parameters passed to the method
+	// Argument list - parameters passed to the method.
 	public String getUsername() {
 		return Username;
 	}
