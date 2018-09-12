@@ -26,7 +26,7 @@ public class app {
 	
 	User u3 = new User();
 	u3.setFirstname("David");
-	u3.setLastname("Manincan");
+	u3.setLastname("ManiCanana");
 	u3.setEmail("25@protonmail.com");
 	u3.setUsername("XXxDAvidxXX");
 	System.out.println(u3.getEmail());
@@ -79,5 +79,14 @@ public class app {
 	u10.setEmail("sadasn42154@protonmail.com");
 	u10.setUsername("Vladican");
 	System.out.println(u10.getEmail());
+	// for loop
+	for (int x = 0; x < 100; x++)
+	{
+		System.out.println(x);
 	}
+	}
+	
+	
+	
+	
 }
