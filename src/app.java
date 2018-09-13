@@ -83,6 +83,7 @@ public class app {
 	for (int x = 0; x < 100; x++)
 	{
 		System.out.println(x);
+		x = x + 5;
 	} // Increment counter
 	}
 	
