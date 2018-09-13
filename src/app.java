@@ -83,16 +83,24 @@ public class app {
 	for (int x = 0; x < 100; x++)
 	{
 		//Prompt user to guess letter
+		
 		//Prompt user with mask of word (recalculate mask based on user input)
+		
 		//Prompt user with hint
+		
 		//Collect user input
+		
 		//repeat...
+		
 		System.out.println(x);
+		
 		x = x + 5;
+		
 	} // Increment counter
 	}
 	
-	
+	// private void generateMask() 
+	// Print the word for now
 	
 	
 }
