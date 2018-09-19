@@ -1,2 +1,2 @@
 # cis170-2018
-Test
+Place to upload projects unless a new repository is used
